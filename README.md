@@ -5,13 +5,12 @@ This project is the final project or Capstone Project of the Bangkit Acedemy 202
 
 This application is an Android-based application designed to be able to detect the types of woven fabrics in Indonesia, besides that we also provide educational information about woven fabrics so that users can find out many things about the description of the types of woven fabrics in Indonesia. Therefore, we named this application Tenunara (Weaving Nusantara). This team consists of:
 
-(Machine Learning) M2299F2581 - Fadjrin Diraja Muhammad - Universitas Pendidikan Indonesia
-(Machine Learning) M7406X2973 - Maulia Savana Putri - STIS Statistics Polytechnic
-(Machine Learning) M2004F0172 - Nadira Hanifah Nur'aini - Ten Institute of Technology
-November
-(Mobile Development) A7224W2051- Figo Alsistani - UIN Syarif Hidayatullah Jakarta
-(Mobile Development) A2152G1660 - Deliana Rahma Azahra - Bandung Institute of Technology
-(Cloud Computing) C2183G1764 - Gunawan Prasetyo - Universitas Amikom Yogyakarta
+1. (Machine Learning) M2299F2581 - Fadjrin Diraja Muhammad - Universitas Pendidikan Indonesia
+2. (Machine Learning) M7406X2973 - Maulia Savana Putri - STIS Statistics Polytechnic
+3. (Machine Learning) M2004F0172 - Nadira Hanifah Nur'aini - Ten Institute of Technology November
+4. (Mobile Development) A7224W2051- Figo Alsistani - UIN Syarif Hidayatullah Jakarta
+5. (Mobile Development) A2152G1660 - Deliana Rahma Azahra - Bandung Institute of Technology
+6. (Cloud Computing) C2183G1764 - Gunawan Prasetyo - Universitas Amikom Yogyakarta
 
 In its implementation, we work together in designing this application between the Mobile Development, Machine Learning, and Cloud Computing teams so that they can continue to coordinate to build this application.
 
